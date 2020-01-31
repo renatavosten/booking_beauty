@@ -20,3 +20,5 @@ Ta rezervacija se automatski šalje na bazu te se prikazuje vlasniku salona u op
 Članovi tima: Lorena Jeger i Renata Vošten
 
 Korištene tehnologije: Vue js i Firebase. Kao dodatne komponente koristili smo vue-croppa,Date Picker,vue-cal.   
+
+Demo aplikacije: https://bookingbeauty-pku643vtk.now.sh
