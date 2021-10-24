@@ -1,5 +1,5 @@
 # booking_beauty
-project-fipu
+*Projekt u sklopu kolegija Programsko inženjerstvo
 
 Naziv aplikacije: Booking Beauty
 
