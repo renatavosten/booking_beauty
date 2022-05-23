@@ -22,3 +22,8 @@ Ta rezervacija se automatski šalje na bazu te se prikazuje vlasniku salona u op
 Korištene tehnologije: Vue js i Firebase. Kao dodatne komponente koristili smo vue-croppa,Date Picker,vue-cal.   
 
 Demo aplikacije: https://bookingbeauty-pku643vtk.now.sh
+
+Screenshotovi aplikacije:
+   ![image](https://user-images.githubusercontent.com/57946609/169802860-917b7c06-be99-45e0-a893-eac4516528e6.png)
+   ![image](https://user-images.githubusercontent.com/57946609/169803240-3182bfe5-12e5-42ee-8979-93be648e7465.png)
+   
